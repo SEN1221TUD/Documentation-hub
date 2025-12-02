@@ -1,3 +1,4 @@
 # SEN122a Internal Hub
 
-For "deploying" just position the `index.html` next to `docs` folder. Once you open the html with the web-broser, you can navigate over the files.
+To browse the documentation, double-click `index.html`. Once you open the html with the web-browser, you can navigate over the files. See the screenshot below.
+![](view.png)
